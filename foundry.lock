@@ -1,0 +1,11 @@
+{
+  "lib/elliptic-curve-solidity": {
+    "rev": "347547890840fd501809dfe0b855206407136ec0"
+  },
+  "lib/forge-std": {
+    "rev": "e8a047e3f40f13fa37af6fe14e6e06283d9a060e"
+  },
+  "lib/openzeppelin-contracts": {
+    "rev": "e50c24f5839db17f46991478384bfda14acfb830"
+  }
+}
